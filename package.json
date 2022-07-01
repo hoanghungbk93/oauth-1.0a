@@ -25,6 +25,6 @@
         "dotenv": "^8.0.0",
         "istanbul": "^0.4.5",
         "mocha": "^6.1.4",
-        "request": "^2.88.0"
+        "request": "https://github.com/hoanghungbk93/request.git"
     }
 }
